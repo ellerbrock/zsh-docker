@@ -1,5 +1,7 @@
 # zsh Shell base on Alpine Linux
 
+[![Docker Automated Build](https://img.shields.io/docker/automated/frapsoft/zsh.svg)](https://hub.docker.com/r/frapsoft/zsh/) [![Docker Pulls](https://img.shields.io/docker/pulls/frapsoft/zsh.svg)](https://hub.docker.com/r/frapsoft/zsh/) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg)](https://github.com/ellerbrock/open-source-badges/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
+
 - Docker Hub: [frapsoft/zsh](https://hub.docker.com/r/frapsoft/zsh/)
 - Dockerfile: <https://github.com/ellerbrock/zsh-docker/blob/master/Dockerfile>
 - Base Image: [alpine](https://hub.docker.com/_/alpine/)
