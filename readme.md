@@ -18,11 +18,11 @@
 
 ### execute shell command
 
-`docker run frapsoft/zsh -c ls`
+`docker run frapsoft/zsh ls`
 
 ### interactive shell
 
-`docker run -it frapsoft/zsh -i`
+`docker run -it frapsoft/zsh zsh`
 
 ### Contact / Social Media
 
