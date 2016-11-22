@@ -1,10 +1,6 @@
 FROM alpine
 
-MAINTAINER Maik Ellerbrock (github.com/ellerbrock)
-
-ENV CONTAINER_VERSION 0.0.2
-ENV CONTAINER_NAME frapsoft/zsh
-ENV CONTAINER_REPO https://github.com/ellerbrock/zsh-docker
+MAINTAINER Maik Ellerbrock (https://github.com/ellerbrock)
 
 RUN apk update && \
     apk add --no-cache zsh && \
